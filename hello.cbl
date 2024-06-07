@@ -7,4 +7,7 @@
       *    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM
       *    CURRENT DATE.
       * TRAINING PUPOSE
+
+JIr1234 This is a new cobol Program
+
       * This is  anew Pgm1
